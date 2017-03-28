@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment1.params=c
+comment1.target=void\ addCard(Card)
+comment2.params=
+comment2.target=int\ getTotal()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ hitorpass()
+numComments=5
